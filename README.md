@@ -146,7 +146,7 @@ Please complete the following and submit via Google Form (or platform):
 * Fork this repo and implement `RideManagerPro`
 * Add your name to the `README` if working as a group
 * Push code to GitHub
-* Submit your GitHub repo link [here](#)
+* 🐙 **Submit your GitHub repo link in a DM on 💬 Slack.**
 
 ---
 
@@ -165,7 +165,7 @@ Please complete the following and submit via Google Form (or platform):
 
 > "Mastering Stack and Queue is like learning how traffic works:
 > You’ll build faster, cleaner, and smarter systems.
-> And remember — a good ride manager never lets guests jump the line (unless you're coding in PHP)." 😄
+> And remember — a good ride manager never lets guests jump the line (unless you're coding in Java)." 😄
 
 ---
 
