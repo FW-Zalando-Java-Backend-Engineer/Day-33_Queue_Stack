@@ -43,7 +43,7 @@ You will implement a **CLI-based amusement park ride manager** that uses:
 - A **Stack** to keep track of the last riders (for safety/photo review)
 
 🧩 Full details are in the assignment file:  
-📄 [`RideManagerPro Assignment`](./assignment.md) *(or keep in root README below if preferred)*
+📄 [`RideManagerPro Assignment`](https://github.com/FW-Zalando-Java-Backend-Engineer/RideManagerPro)
 
 ✅ The project uses:
 - Java 17+
