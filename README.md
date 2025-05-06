@@ -35,6 +35,44 @@ This lesson is packed with **real-world applications**, an engaging **project as
 
 ---
 
+## 🖼️ Visual Aids
+
+Here are some helpful diagrams we used during the Day-33 session to visualize how **Stacks** and **Queues** behave:
+
+### 🔁 Stack (LIFO) – "Last In, First Out"
+
+A stack behaves like a **pile of plates** — the last item added is the first to be removed.
+
+![Stack Example](https://tse3.mm.bing.net/th?id=OIP.t70ZprxgQbQgdgHGBARCkAHaEK\&pid=Api)
+
+---
+
+### 🚶 Queue (FIFO) – "First In, First Out"
+
+A queue is like a **line at an amusement park** — the first guest in line is the first to ride.
+
+![Queue Example](https://tse2.mm.bing.net/th?id=OIP.ZYA1-JK04L93xwez4gf0fQHaGd\&pid=Api)
+
+---
+
+### 🔄 Stack vs Queue Overview
+
+This diagram compares the flow and removal order of elements between the two structures.
+
+![Stack vs Queue](https://tse2.mm.bing.net/th?id=OIP.-gfCHQ1n6RNQU7ucIySmCAHaEO\&pid=Api)
+
+---
+
+### 🧠 Key Differences Summary
+
+| Feature        | Stack                     | Queue                      |
+| -------------- | ------------------------- | -------------------------- |
+| Order Type     | LIFO (Last In, First Out) | FIFO (First In, First Out) |
+| Add Element    | `.push()` / `.add()`      | `.offer()` / `.add()`      |
+| Remove Element | `.pop()`                  | `.poll()` / `.remove()`    |
+| Java Interface | `Deque` / `Stack`         | `Queue` / `Deque`          |
+
+---
 ## 🚀 Assignment: RideManagerPro 🎡
 
 You will implement a **CLI-based amusement park ride manager** that uses:
